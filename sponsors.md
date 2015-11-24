@@ -7,7 +7,7 @@ The goal of our Gold tier sponsorship is to build long stading partnerships with
 <ul class="gold-sponsor">
   <li>
     <a href="https://www.braintreepayments.com/" target="_blank" title="BrainTree Payments homepage, proud sponsor of LNUG">
-      <img src="/images/braintree.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="BrainTree Payments">
+      <img src="/images/sponsors/braintree.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="BrainTree Payments">
     </a>
   </li>
   <li>
@@ -33,12 +33,12 @@ The goal of our Silver tier sponsorship is to enable established companies ad-ho
 <ul class="silver-sponsor">
   <li>
     <a href="https://artificial.io/" target="_blank" title="artificial labs, proud sponsor of LNUG">
-      <img src="/images/artificial-labs.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-silver" alt="artificial Logo">
+      <img src="/images/sponsors/artificial-labs.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-silver" alt="artificial Logo">
     </a>
   </li>
   <li>
     <a href="https://jscrambler.com/" target="_blank" title="JScrambler, proud sponsor of LNUG">
-      <img src="/images/jscramble.png" class="lnug-sponsor-logo lnug-sponsor-logo-silver" alt="JScramble Logo">
+      <img src="/images/sponsors/jscramble.png" class="lnug-sponsor-logo lnug-sponsor-logo-silver" alt="JScramble Logo">
     </a>
   </li>
 </ul>
