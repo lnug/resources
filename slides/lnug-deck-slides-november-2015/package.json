@@ -1,0 +1,16 @@
+{
+  "name": "LNUG-November-2015-deck",
+  "version": "0.0.1",
+  "skin": "lnug-deck-skin",
+  "files": [
+    "README.md",
+    "deck.md",
+    "images"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.0",
+    "lnug-deck-skin": "^1.0.1"
+  },
+  "author": "Ian Crowther",
+  "license": "Attribution-ShareAlike 4.0 International"
+}
