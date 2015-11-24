@@ -60,7 +60,7 @@ The goal of our Community tier sponsorship is to reward those who consistently m
 <ul class="community-sponsor">
   <li>
     <a href="http://nexttick.io" target="_blank" title="Nexttick homepage, proud sponsor of LNUG">
-      <img src="/images/sponsors/public/nexttick.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-community" alt="Nexttick - Node Consultancy">
+      <img src="/images/sponsors/nexttick.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-community" alt="Nexttick - Node Consultancy">
     </a>
   </li>
 </ul>
