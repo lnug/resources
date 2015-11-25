@@ -1,5 +1,5 @@
 # November 2015
-This slide deck uses deck to present
+This slide deck uses [deck](https://github.com/nearform/deck-app) to present
 
 ### Setup Instructions
 ```
