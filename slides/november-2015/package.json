@@ -1,0 +1,21 @@
+{
+  "name": "november-2015",
+  "version": "0.0.2",
+  "skin": "lnug-deck-skin",
+  "files": [
+    "README.md",
+    "deck.md",
+    "images"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.9",
+    "lnug-deck-skin": "^1.0.3"
+  },
+  "author": {
+    "name": "Ian Crowther",
+    "email": "ian@nexttick.io",
+    "url": "http://nexttick.io"
+  },
+  "license": "MIT",
+  "homepage": "github.com/lnug/resources/slides/novermber-2015"
+}
