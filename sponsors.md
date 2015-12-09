@@ -2,7 +2,7 @@
 Our aim is to offer a range of sponsorship tiers to cater for everyone. If you are interesting in supporing the Node community in London, please email us for a sponsorship pack at contact@lnug.org
 
 ## Gold
-The goal of our Gold tier sponsorship is to build long stading partnerships with established brands who are looking to maintain a prescence in the London market.
+The goal of our Gold tier sponsorship is to build long standing partnerships with established brands who are looking to maintain a presence in the London market.
 
 <ul class="gold-sponsor sponsors">
   <li>
@@ -44,7 +44,7 @@ The goal of our Silver tier sponsorship is to enable established companies ad-ho
 </ul>
 
 ## Bronze
-The goal of our Bronze tier sponsorship is to enable local startups, who dont necessarily have the budgets of the larger enterprises to have the opportunity to build their brand.
+The goal of our Bronze tier sponsorship is to enable local startups, who do not necessarily have the budgets of the larger enterprises to have the opportunity to build their brand.
 
 <ul class="bronze-sponsor sponsors">
   <li>
