@@ -88,8 +88,8 @@ master: basic-slide
 
 # Announcements
 
-## 2016 Kick Off Meeting
-feedback/issues
+## Photo Competitions
+#lnug on Twitter or Instagram.. <random>wins!</random>
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -115,6 +115,11 @@ A huge thanks to this months contributors
 * Oliver Evans
 * Simon McManus
 
+---
+<!--
+master: bullet-caption-slide
+-->
+
 ## Hot Issues
 github.com/lnug/feedback/issues
 
@@ -130,21 +135,15 @@ master: basic-caption-slide
 github.com/lnug
 
 ## Website Tips
-the issues are on us!
-
-github.com/lnug/lnug.github.io
-
-Ask Simon McManus
+github.com/lnug/lnug.github.io | Ask Simon McManus
 
 ## Task Automation
 github.com/gitevents
 
-Help us create a new plugin for Deck
+Help us create a new plugin for Deck?
 
 ## Nodeschool London | Code and Learn
-Saturday 30th January 2016 - Sold Out!
-
-twitter.com/nodeschool_ldn
+Saturday 30th January 2016 - Sold Out! | twitter.com/nodeschool_ldn
 
 ---
 <!--
@@ -176,8 +175,6 @@ master: image
 
 # Community Announcements
 Now it's time to hand over to you...
-
-![](images/...)
 
 ---
 <!--
