@@ -35,16 +35,12 @@ Recap on YouTube: "LNUG Team"
 master: bullet-slide
 -->
 
-# Whats New for 2016
+# So... Whats New for 2016?
 
-* New Venue
-
-* New Goals
-
-  - Beginner Speakers
-  - Working Groups
-  - Easier Community Engagement
-  - Monthly Meeting + Related Meetup's
+- New Venue
+- Monthly Meeting + Related Meetup's
+- Beginner Speakers | Working Groups | Easier Community Engagement
+- Other? Over to you..
 
 ---
 <!--
@@ -101,10 +97,7 @@ github.com/lnug/resources
 ## Community Announcements
 Hiring | Available | Cool Projects
 
-Who are you?
-What do you do?
-What do you need?
-How do we get in touch?
+Who, what, need, contact..?
 
 ---
 <!--
