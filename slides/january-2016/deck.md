@@ -55,7 +55,6 @@ master: bullet-slide
 * Swag
 * Toilets
 * Fire Escapes!
-* Please don’t take anything from the fridges
 
 ---
 <!--
@@ -89,7 +88,7 @@ master: basic-slide
 # Announcements
 
 ## Photo Competitions
-#lnug on Twitter or Instagram.. <random>wins!</random>
+#lnug on Twitter or Instagram.. random=win
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -166,7 +165,7 @@ master: image
 # Loading...
 Grab a drink whilst we setup!
 
-![](images/...)
+![](images/break.gif)
 
 ---
 <!--
@@ -215,4 +214,4 @@ master: basic-slide
 London,
 E1 6LP
 
-http://www.theculpeper.com/pub/
+http://theculpeper.com/pub/
