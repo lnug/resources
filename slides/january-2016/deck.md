@@ -3,12 +3,12 @@
 master: landing-slide
 -->
 <object id="logo" type="image/svg+xml" data="images/lnug-logo.svg"></object>
-# November 25th 2015 (#47)
+# January 27th 2016 (#48)
 
 <ul class="speakers">
-  <li class="speaker-card">Ben Hall (@benhall) - <em>Scaling Node.js using Docker</em></li>
-  <li class="speaker-card">Fábio Santos (@fabiosantoscode) - <em>A javascript to c++ transpiler!</em></li>
-  <li class="speaker-card">Matt Forrester (@forbesmyester) - <em>MVP Diagrams that can do things</em></li>
+  <li class="speaker-card">Oliver Rumbelow - <em>NodeJS Supercomputing?!</em></li>
+  <li class="speaker-card">Hugo - <em>Going cross-platform with React: ~1 codebase, 3 platforms</em></li>
+  <li class="speaker-card">Phil Nash (@philnash) - <em>2FA, WTF?</em></li>
 </ul>
 
 <ul class="information">
@@ -19,13 +19,43 @@ master: landing-slide
 
 ---
 <!--
+master: image
+-->
+
+# Welcome Back
+
+![](images/explosion.gif)
+
+So long 2015...
+
+Recap on YouTube: "LNUG Team"
+
+---
+<!--
+master: bullet-slide
+-->
+
+# Whats New for 2016
+
+* New Venue
+
+* New Goals
+
+  - Beginner Speakers
+  - Working Groups
+  - Easier Community Engagement
+  - Monthly Meeting + Related Meetup's
+
+---
+<!--
 master: bullet-slide
 -->
 
 # House Keeping
 
 * YouTube: goo.gl/aLIL1Z
-* Instagram: lnugorg
+* Instagram: #lnug
+* Twitter: #lnug
 * Swag
 * Toilets
 * Fire Escapes!
@@ -92,7 +122,6 @@ A huge thanks to this months contributors
 * Oliver Evans
 * Simon McManus
 
-
 ## Hot Issues
 github.com/lnug/feedback/issues
 
@@ -145,7 +174,7 @@ master: image
 # Loading...
 Grab a drink whilst we setup!
 
-![](images/break.gif)
+![](images/...)
 
 ---
 <!--
@@ -155,7 +184,7 @@ master: image
 # Community Announcements
 Now it's time to hand over to you...
 
-![](images/community-announcements.gif)
+![](images/...)
 
 ---
 <!--
@@ -176,11 +205,12 @@ master: bullet-caption-slide
 -->
 
 # Next Time
-## January 27th 2016
+## February 24th 2016
 The 4th Wednesday of the month
 
 * Rubbish in Bins
 * Arrange Tables & Chairs
+* Visit Sponsors Websites
 
 ---
 <!--
@@ -189,10 +219,10 @@ master: basic-slide
 
 # After Party
 
-## The Old Fountain
+## TBD
 
-3 Baldwin Street,
+...,
 London,
-EC1V9NU
+...
 
-http://www.oldfountain.co.uk/
+http://.../
