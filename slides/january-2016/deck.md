@@ -167,7 +167,7 @@ master: image
 # Loading...
 Grab a drink whilst we setup!
 
-![](images/...)
+![](images/beerdog.gif)
 
 ---
 <!--
