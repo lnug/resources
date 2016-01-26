@@ -3,12 +3,12 @@
 master: landing-slide
 -->
 <object id="logo" type="image/svg+xml" data="images/lnug-logo.svg"></object>
-# November 25th 2015 (#47)
+# January 27th 2016 (#48)
 
 <ul class="speakers">
-  <li class="speaker-card">Ben Hall (@benhall) - <em>Scaling Node.js using Docker</em></li>
-  <li class="speaker-card">Fábio Santos (@fabiosantoscode) - <em>A javascript to c++ transpiler!</em></li>
-  <li class="speaker-card">Matt Forrester (@forbesmyester) - <em>MVP Diagrams that can do things</em></li>
+  <li class="speaker-card">Oliver Rumbelow - <em>NodeJS Supercomputing?!</em></li>
+  <li class="speaker-card">Hugo - <em>Going cross-platform with React: ~1 codebase, 3 platforms</em></li>
+  <li class="speaker-card">Phil Nash (@philnash) - <em>2FA, WTF?</em></li>
 </ul>
 
 <ul class="information">
@@ -41,7 +41,7 @@ Interested in sponsoring? get in touch at contact@lnug.org
 
 ## Gold
 * Braintree
-* Makers Academy
+* StackOverflow
 * Strongloop
 * YLD!
 
@@ -53,6 +53,7 @@ Interested in sponsoring? get in touch at contact@lnug.org
 * Slots Available
 
 ## Community
+* Nexttick
 * DotJS
 
 ---
@@ -62,19 +63,14 @@ master: basic-slide
 
 # Announcements
 
-## 2016 Kick Off Meeting
-feedback/issues
+## Become an Organizer
+Come say hello to one of the team | contact@lnug.org
 
 ## Assets & Slides
 github.com/lnug/resources
 
-## Community Announcements
-Hiring | Available | Cool Projects
-
-Who are you?
-What do you do?
-What do you need?
-How do we get in touch?
+## New Site
+Sneak Peek
 
 ---
 <!--
@@ -83,21 +79,17 @@ master: bullet-caption-slide
 
 ## Pull Requests
 A huge thanks to this months contributors
-* Adam Davies
-* Alan Shaw
-* Andrew Clarke
-* Ian Crowther
-* Julien Brun
-* Max Duluc
-* Oliver Evans
 * Simon McManus
-
+* Ian Crowther
+* Maxwell Ito
+* Adam Davies
 
 ## Hot Issues
 github.com/lnug/feedback/issues
 
-* feedback/issues/92 - Help us curate speakers
-* feedback/issues/96 - Newsletter February 2016 - News Gathering
+* Issue 76
+* Issue 75
+* Issue 72
 
 ---
 <!--
@@ -107,22 +99,14 @@ master: basic-caption-slide
 # Contribute
 github.com/lnug
 
-## Website Tips
-the issues are on us!
-
-github.com/lnug/lnug.github.io
-
+## Website Redesign
 Ask Simon McManus
 
 ## Task Automation
 github.com/gitevents
 
-Help us create a new plugin for Deck
-
 ## Nodeschool London | Code and Learn
-Saturday 30th January 2016 - Sold Out!
-
-twitter.com/nodeschool_ldn
+Ask Ian Crowther
 
 ---
 <!--
@@ -134,8 +118,8 @@ github.com/lnug/speakers
 
 We have 2016 speaker slots available.
 
-* April
-* May
+* Feburay
+* March
 
 ---
 <!--
