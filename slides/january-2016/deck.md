@@ -212,10 +212,10 @@ master: basic-slide
 
 # After Party
 
-## TBD
+## The Culpeper
 
-...,
+40 Commercial Street,
 London,
-...
+E1 6LP
 
-http://.../
+http://www.theculpeper.com/pub/
