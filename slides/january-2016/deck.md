@@ -62,11 +62,19 @@ master: basic-slide
 
 # Announcements
 
+## 2016 Kick Off Meeting
+feedback/issues
+
 ## Assets & Slides
 github.com/lnug/resources
 
-## New Site
-Sneak Peek
+## Community Announcements
+Hiring | Available | Cool Projects
+
+Who are you?
+What do you do?
+What do you need?
+How do we get in touch?
 
 ---
 <!--
@@ -88,9 +96,8 @@ A huge thanks to this months contributors
 ## Hot Issues
 github.com/lnug/feedback/issues
 
-* Issue 76
-* Issue 75
-* Issue 72
+* feedback/issues/92 - Help us curate speakers
+* feedback/issues/96 - Newsletter February 2016 - News Gathering
 
 ---
 <!--
@@ -100,14 +107,22 @@ master: basic-caption-slide
 # Contribute
 github.com/lnug
 
-## Website Redesign
+## Website Tips
+the issues are on us!
+
+github.com/lnug/lnug.github.io
+
 Ask Simon McManus
 
 ## Task Automation
 github.com/gitevents
 
+Help us create a new plugin for Deck
+
 ## Nodeschool London | Code and Learn
-Ask Ian Crowther
+Saturday 30th January 2016 - Sold Out!
+
+twitter.com/nodeschool_ldn
 
 ---
 <!--
@@ -119,8 +134,8 @@ github.com/lnug/speakers
 
 We have 2016 speaker slots available.
 
-* Feburay
-* March
+* April
+* May
 
 ---
 <!--
