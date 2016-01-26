@@ -41,7 +41,7 @@ Interested in sponsoring? get in touch at contact@lnug.org
 
 ## Gold
 * Braintree
-* StackOverflow
+* Makers Academy
 * Strongloop
 * YLD!
 
@@ -53,7 +53,6 @@ Interested in sponsoring? get in touch at contact@lnug.org
 * Slots Available
 
 ## Community
-* Nexttick
 * DotJS
 
 ---
@@ -62,9 +61,6 @@ master: basic-slide
 -->
 
 # Announcements
-
-## Become an Organizer
-Come say hello to one of the team | contact@lnug.org
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -79,10 +75,15 @@ master: bullet-caption-slide
 
 ## Pull Requests
 A huge thanks to this months contributors
-* Simon McManus
-* Ian Crowther
-* Maxwell Ito
 * Adam Davies
+* Alan Shaw
+* Andrew Clarke
+* Ian Crowther
+* Julien Brun
+* Max Duluc
+* Oliver Evans
+* Simon McManus
+
 
 ## Hot Issues
 github.com/lnug/feedback/issues
