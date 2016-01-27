@@ -7,7 +7,7 @@ The goal of our Gold tier sponsorship is to build long standing partnerships wit
 <ul class="gold-sponsor sponsors">
   <li>
     <a href="https://www.braintreepayments.com/" target="_blank" title="BrainTree Payments homepage, proud sponsor of LNUG">
-      <img src="/images/sponsors/braintree.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="BrainTree Payments">
+      <img src="/images/sponsors/braintree.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="BrainTree Payments Logo">
     </a>
   </li>
   <li>
@@ -22,7 +22,7 @@ The goal of our Gold tier sponsorship is to build long standing partnerships wit
   </li>
   <li>
     <a href="http://yld.io" target="_blank" title="YLD!">
-      <img src="/images/sponsors/yld.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="YLD!">
+      <img src="/images/sponsors/yld.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="YLD! Logo">
     </a>
   </li>
 </ul>
