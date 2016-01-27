@@ -12,7 +12,7 @@ The goal of our Gold tier sponsorship is to build long standing partnerships wit
   </li>
   <li>
     <a href="http://makersacademy.com/" target="_blank" title="Makers Academy, venue hosts for LNUG meetups">
-      <img src="/images/sponsors/makers.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="Makers Academy Logo">
+      <img src="/images/sponsors/makers.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="Makers Academy Logo">
     </a>
   </li>
   <li>
