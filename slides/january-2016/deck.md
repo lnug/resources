@@ -30,6 +30,24 @@ So long 2015...
 
 Recap on YouTube: "LNUG Team"
 
+<!--
+master: landing-slide
+-->
+<object id="logo" type="image/svg+xml" data="images/lnug-logo.svg"></object>
+# January 27th 2016 (#48)
+
+<ul class="speakers">
+  <li class="speaker-card">Oliver Rumbelow - <em>NodeJS Supercomputing?!</em></li>
+  <li class="speaker-card">Hugo - <em>Going cross-platform with React: ~1 codebase, 3 platforms</em></li>
+  <li class="speaker-card">Phil Nash (@philnash) - <em>2FA, WTF?</em></li>
+</ul>
+
+<ul class="information">
+  <li class="information-item">WIFI: See the walls</li>
+  <li class="information-item">Twitter: @LNUGorg use hashtags #LNUG #node #javascript #london</li>
+  <li class="information-item">Gitter: lnug/discuss</li>
+</ul>
+
 ---
 <!--
 master: bullet-slide
@@ -49,7 +67,7 @@ master: bullet-slide
 
 # House Keeping
 
-* YouTube: goo.gl/aLIL1Z
+* YouTube: LNUG Team
 * Instagram: #lnug
 * Twitter: #lnug
 * Swag
@@ -78,7 +96,7 @@ Interested in sponsoring? get in touch at contact@lnug.org
 * Slots Available
 
 ## Community
-* DotJS
+* Slots Available
 
 ---
 <!--
