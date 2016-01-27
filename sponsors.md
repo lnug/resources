@@ -58,5 +58,9 @@ The goal of our Bronze tier sponsorship is to enable local startups, who do not 
 The goal of our Community tier sponsorship is to reward those who consistently make significant contributions to LNUG of around 20 hours a month.
 
 <ul class="community-sponsor sponsors">
-  <li></li>
+  <li>
+  <a href="mailto:contact@lnug.org?subject=LNUG%20Sponsorship" target="_blank" title="Sponsor LNUG">
+    <img src="/images/sponsors/placeholder.png" class="lnug-sponsor-logo lnug-sponsor-logo-community" alt="Sponsor LNUG">
+  </a>
+  </li>
 </ul>
