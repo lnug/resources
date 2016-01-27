@@ -88,7 +88,7 @@ master: basic-slide
 # Announcements
 
 ## Photo Competitions
-#lnug on Twitter or Instagram.. random=win
+#lnug on Twitter or Instagram.. random=win EnhanceConf+T's
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -196,6 +196,8 @@ master: bullet-caption-slide
 # Next Time
 ## February 24th 2016
 The 4th Wednesday of the month
+
+ti.to/lnug/february-2016
 
 * Rubbish in Bins
 * Arrange Tables & Chairs
