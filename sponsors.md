@@ -11,8 +11,8 @@ The goal of our Gold tier sponsorship is to build long standing partnerships wit
     </a>
   </li>
   <li>
-    <a href="https://stackoverflow.com/" target="_blank" title="Stackoverflow, venue hosts for LNUG meetups">
-      <img src="/images/sponsors/stackoverflow.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="Stack Overflow Logo">
+    <a href="http://makersacademy.com/" target="_blank" title="Makers Academy, venue hosts for LNUG meetups">
+      <img src="/images/sponsors/makers.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="Makers Academy Logo">
     </a>
   </li>
   <li>
@@ -58,9 +58,5 @@ The goal of our Bronze tier sponsorship is to enable local startups, who do not 
 The goal of our Community tier sponsorship is to reward those who consistently make significant contributions to LNUG of around 20 hours a month.
 
 <ul class="community-sponsor sponsors">
-  <li>
-    <a href="http://nexttick.io" target="_blank" title="Nexttick homepage, proud sponsor of LNUG">
-      <img src="/images/sponsors/nexttick.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-community" alt="Nexttick - Node Consultancy">
-    </a>
-  </li>
+  <li></li>
 </ul>
