@@ -107,7 +107,7 @@ master: bullet-caption-slide
 A huge thanks to this months contributors
 * Adam Davies
 * Alan Shaw
-* Andrew Clarke
+* Clarkie
 * Ian Crowther
 * Julien Brun
 * Max Duluc
