@@ -1,4 +1,4 @@
-# January 2016
+# February 2016
 This slide deck uses [deck](https://github.com/nearform/deck-app) to present
 
 ### Setup Instructions

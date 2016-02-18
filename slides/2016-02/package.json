@@ -1,6 +1,6 @@
 {
-  "name": "november-2015",
-  "version": "0.0.2",
+  "name": "february-2016",
+  "version": "0.0.8",
   "skin": "lnug-deck-skin",
   "files": [
     "README.md",
@@ -17,5 +17,5 @@
     "url": "http://nexttick.io"
   },
   "license": "MIT",
-  "homepage": "https://github.com/lnug/resources/slides/2015-11"
+  "homepage": "https://github.com/lnug/resources/slides/2016-02"
 }
