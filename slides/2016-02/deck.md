@@ -17,15 +17,17 @@ master: landing-slide
   <li class="information-item">Gitter: lnug/discuss</li>
 </ul>
 
+---
 <!--
 master: bullet-slide
 -->
 
-# So... Whats New for February 2016?
+# Whats New for February 2016?
 
-- New Node.js Log
 - LTS branch has been updated (v4.3.x)
 - Node.js Foundation hiring an Education Community Manager
+- New Node.js Logo  
+<img src="images/nodejs-new-pantone-white.png" width="30%" style="margin-top: 20px"/>
 
 
 
