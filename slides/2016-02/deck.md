@@ -19,28 +19,17 @@ master: landing-slide
 
 ---
 <!--
-master: image
--->
-
-# Welcome Back
-
-![](images/explosion.gif)
-
-So long 2015...
-
-Recap on YouTube: "LNUG Team"
-
----
-<!--
 master: bullet-slide
 -->
 
-# So... Whats New for 2016?
+# Whats New for February 2016?
 
-- New Venue
-- Monthly Meeting + Related Meetup's
-- Beginner Speakers | Working Groups | Easier Community Engagement
-- Other? Over to you..
+- LTS branch has been updated (v4.3.x)
+- Node.js Foundation hiring an Education Community Manager
+- New Node.js Logo  
+<img src="images/nodejs-new-pantone-white.png" width="30%" style="margin-top: 20px"/>
+
+
 
 ---
 <!--
@@ -88,7 +77,7 @@ master: basic-slide
 # Announcements
 
 ## Photo Competitions
-#lnug on Twitter or Instagram.. random=win EnhanceConf+T's
+#lnug on Twitter or Instagram.. random=win NodeBots ticket
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -104,15 +93,11 @@ master: bullet-caption-slide
 -->
 
 ## Pull Requests
-A huge thanks to this months contributors
-* Adam Davies
-* Alan Shaw
-* Clarkie
-* Ian Crowther
-* Julien Brun
-* Max Duluc
-* Oliver Evans
+A huge thanks to this months contributors, especially
+* Ricardo Quintas 
 * Simon McManus
+
+PR #108 - Epic!
 
 ---
 <!--
@@ -122,8 +107,9 @@ master: bullet-caption-slide
 ## Hot Issues
 github.com/lnug/feedback/issues
 
-* feedback/issues/92 - Help us curate speakers
-* feedback/issues/96 - Newsletter February 2016 - News Gathering
+* lnug.github.io/issues/92 - Provide mechanism for audience to suggest speakers
+* feedback/issues/98 - Newsletter March 2016 - News Gathering
+* feedback/issues/84 - Design LNUG Sticker for 2016
 
 ---
 <!--
@@ -142,7 +128,7 @@ github.com/gitevents
 Help us create a new plugin for Deck?
 
 ## Nodeschool London | Code and Learn
-Saturday 30th January 2016 - Sold Out! | twitter.com/nodeschool_ldn
+March .... we're looking for some help to organise this.
 
 ---
 <!--
@@ -176,6 +162,10 @@ master: image
 # Community Announcements
 Now it's time to hand over to you...
 
+Hiring | Available | Cool Projects
+
+Who, what, need, contact..?
+
 ---
 <!--
 master: basic-slide
@@ -195,13 +185,13 @@ master: bullet-caption-slide
 -->
 
 # Next Time
-## February 24th 2016
+## 23rd March 2016
 The 4th Wednesday of the month
 
-ti.to/lnug/february-2016
+ti.to/lnug/march-2016
 
 * Rubbish in Bins
-* Arrange Tables & Chairs
+* Stack chairs against walls
 * Visit Sponsors Websites
 
 ---
