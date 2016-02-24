@@ -6,9 +6,9 @@ master: landing-slide
 # February 24th 2016 (#49)
 
 <ul class="speakers">
-  <li class="speaker-card">Guy Podjarny - <em>Stranger Danger: addressing the security risk in npm dependencies</em></li>
-  <li class="speaker-card">Shane Osbourne - <em>Taming Asynchronous Programming with RxJS</em></li>
   <li class="speaker-card">Zhivko Siderov - <em>How to build a real-time application with Node</em></li>
+  <li class="speaker-card">Shane Osbourne - <em>Taming Asynchronous Programming with RxJS</em></li>
+  <li class="speaker-card">Guy Podjarny - <em>Stranger Danger: addressing the security risk in npm dependencies</em></li>
 </ul>
 
 <ul class="information">
@@ -24,12 +24,9 @@ master: bullet-slide
 
 # Whats New for February 2016?
 
-- LTS branch has been updated (v4.3.x)
-- Node.js Foundation hiring an Education Community Manager
+- LTS branch has been updated to (v4.3.x)
 - New Node.js Logo  
 <img src="images/nodejs-new-pantone-white.png" width="30%" style="margin-top: 20px"/>
-
-
 
 ---
 <!--
@@ -54,7 +51,6 @@ master: sponsor-slide
 Interested in sponsoring? get in touch at contact@lnug.org
 
 ## Gold
-* Braintree
 * Makers Academy
 * Strongloop
 * YLD!
@@ -67,7 +63,7 @@ Interested in sponsoring? get in touch at contact@lnug.org
 * Slots Available
 
 ## Community
-* Slots Available
+* dotJS
 
 ---
 <!--
@@ -76,8 +72,10 @@ master: basic-slide
 
 # Announcements
 
-## Photo Competitions
-#lnug on Twitter or Instagram.. random=win NodeBots ticket
+## Free Tickets
+#lnug on Twitter or Instagram..
+random=win EnhanceConf
+why_2015=FullStack2016 - enrico.meloni@skillsmatter.com
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -94,10 +92,16 @@ master: bullet-caption-slide
 
 ## Pull Requests
 A huge thanks to this months contributors, especially
-* Ricardo Quintas 
+* Ricardo Quintas
 * Simon McManus
+* Clarkie
+* Alex Potsides
+* Ian Crowther
+* Jon Kelly
+* Adam Davis
+* Orlando
 
-PR #108 - Epic!
+If I missed you I'm sorry!
 
 ---
 <!--
@@ -122,13 +126,8 @@ github.com/lnug
 ## Website Tips
 github.com/lnug/lnug.github.io | Ask Simon McManus
 
-## Task Automation
-github.com/gitevents
-
-Help us create a new plugin for Deck?
-
 ## Nodeschool London | Code and Learn
-March .... we're looking for some help to organise this.
+March .... we're looking for some help to organize this.
 
 ---
 <!--
