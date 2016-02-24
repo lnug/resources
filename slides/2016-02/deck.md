@@ -128,7 +128,7 @@ github.com/gitevents
 Help us create a new plugin for Deck?
 
 ## Nodeschool London | Code and Learn
-Saturday 30th January 2016 - Sold Out! | twitter.com/nodeschool_ldn
+March .... we're looking for some help to organise this.
 
 ---
 <!--
@@ -161,6 +161,10 @@ master: image
 
 # Community Announcements
 Now it's time to hand over to you...
+
+Hiring | Available | Cool Projects
+
+Who, what, need, contact..?
 
 ---
 <!--
