@@ -17,30 +17,17 @@ master: landing-slide
   <li class="information-item">Gitter: lnug/discuss</li>
 </ul>
 
----
-<!--
-master: image
--->
-
-# Welcome Back
-
-![](images/explosion.gif)
-
-So long 2015...
-
-Recap on YouTube: "LNUG Team"
-
----
 <!--
 master: bullet-slide
 -->
 
-# So... Whats New for 2016?
+# So... Whats New for February 2016?
 
-- New Venue
-- Monthly Meeting + Related Meetup's
-- Beginner Speakers | Working Groups | Easier Community Engagement
-- Other? Over to you..
+- New Node.js Log
+- LTS branch has been updated (v4.3.x)
+- Node.js Foundation hiring an Education Community Manager
+
+
 
 ---
 <!--
@@ -88,7 +75,7 @@ master: basic-slide
 # Announcements
 
 ## Photo Competitions
-#lnug on Twitter or Instagram.. random=win EnhanceConf+T's
+#lnug on Twitter or Instagram.. random=win NodeBots ticket
 
 ## Assets & Slides
 github.com/lnug/resources
@@ -104,15 +91,11 @@ master: bullet-caption-slide
 -->
 
 ## Pull Requests
-A huge thanks to this months contributors
-* Adam Davies
-* Alan Shaw
-* Clarkie
-* Ian Crowther
-* Julien Brun
-* Max Duluc
-* Oliver Evans
+A huge thanks to this months contributors, especially
+* Ricardo Quintas 
 * Simon McManus
+
+PR #108 - Epic!
 
 ---
 <!--
@@ -122,8 +105,9 @@ master: bullet-caption-slide
 ## Hot Issues
 github.com/lnug/feedback/issues
 
-* feedback/issues/92 - Help us curate speakers
-* feedback/issues/96 - Newsletter February 2016 - News Gathering
+* lnug.github.io/issues/92 - Provide mechanism for audience to suggest speakers
+* feedback/issues/98 - Newsletter March 2016 - News Gathering
+* feedback/issues/84 - Design LNUG Sticker for 2016
 
 ---
 <!--
@@ -195,13 +179,13 @@ master: bullet-caption-slide
 -->
 
 # Next Time
-## February 24th 2016
+## 23rd March 2016
 The 4th Wednesday of the month
 
-ti.to/lnug/february-2016
+ti.to/lnug/march-2016
 
 * Rubbish in Bins
-* Arrange Tables & Chairs
+* Stack chairs against walls
 * Visit Sponsors Websites
 
 ---
