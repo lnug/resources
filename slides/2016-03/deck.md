@@ -187,7 +187,7 @@ master: bullet-caption-slide
 ## 27th April 2016
 The 4th Wednesday of the month
 
-ti.to/lnug/march-2016
+ti.to/lnug/april-2016
 
 * Rubbish in Bins
 * Stack chairs against walls
