@@ -112,7 +112,7 @@ github.com/lnug/feedback/issues
 * Privacy policy
     * http://github.com/lnug/lnug.github.io/issues/80
 * Newsletter May 2016 - News Gathering
-    * ????????????
+    * github.com/lnug/feedback/issues/102
 
 ---
 <!--
