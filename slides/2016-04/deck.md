@@ -24,13 +24,15 @@ master: bullet-slide
 
 # Whats New for April 2016?
 
+- Node.js v6.0.0 is out now!
+    - ES2015 support in Node.js (96%)
+    - http://node.green/
 - NodeConf London on 11th May 2016
     - Line-up released
     - Win 2 tickets tonight
     - 50% off using the code "lnug-50" (only 10)
     - 25% discount using code "lnug-25"
 - New LNUG Stickers (finally!)
-- http://node.green/ - ES2015/2016 support in Node.js
 
 ---
 <!--
