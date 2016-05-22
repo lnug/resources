@@ -47,12 +47,14 @@ master: bullet-caption-slide
 ---
 <!--
 master: basic-slide
--->
+--> 
+# Next Up
+## Alex J Burke
+## Declaratively mocking HTTP
 
-# Speaker #1
-Grab a drink then grab a seat!
+<p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
-<img src="images/beer.gif" width="55%"/>
+<img src="images/beer.gif" width="40%"/>
 
 ---
 <!--
@@ -68,16 +70,17 @@ Who, what, need, contact..?
 
 ## Cool Projects
 
-
 ---
 <!--
 master: basic-slide
--->
+--> 
+# Next Up
+## Samuel Rounce
+## Debugging Node.JS
 
-# Speaker #2
-Grab a drink then grab a seat!
+<p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
-<img src="images/beer.gif" width="55%"/>
+<img src="images/beer.gif" width="40%"/>
 
 ---
 <!--
@@ -136,16 +139,17 @@ We have 2016 speaker slots available.
 * August
 * September
 
-
 ---
 <!--
 master: basic-slide
--->
+--> 
+# Next Up
+## Tanzim
+## I've got swagger. Have you?
 
-# Speaker #3
-Grab a drink then grab a seat!
+<p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
-<img src="images/beer.gif" width="55%"/>
+<img src="images/beer.gif" width="40%"/>
 
 ---
 <!--
