@@ -40,27 +40,9 @@ master: bullet-caption-slide
 
 * NodeConf London
   * *[Videos available online](https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2#nodeconflondon2016)*
-* NodeSchool
-  * ####### NEED SOME MORE INFORMATION ######
-* NodeConf EU
-  * Call for speakers
+* Node School Day
 * v0.12 now in *[maintenance](https://github.com/nodejs/LTS)* (not LTS)
   * Only critical bugs and security fixes
-
-
----
-<!--
-master: bullet-caption-slide
--->
-
-# Sponsors
-Interested in sponsoring? get in touch at contact@lnug.org
-
-* Makers Academy
-* Strongloop
-
-## Community Sponsorship
-* [Your company here!]
 
 ---
 <!--
@@ -167,7 +149,7 @@ Grab a drink then grab a seat!
 
 ---
 <!--
-master: basic-slide
+master: bullet-caption-slide
 -->
 
 # Thank You
@@ -176,7 +158,8 @@ master: basic-slide
 github.com/lnug/feedback
 
 ## Brought to you by...
-github.com/orgs/lnug/people
+* Makers Academy
+* github.com/orgs/lnug/people
 
 ---
 <!--
@@ -195,7 +178,7 @@ ti.to/lnug/june-2016
 
 ---
 <!--
-master: basic-slide
+master: bullet-caption-slide
 -->
 
 # After Party
