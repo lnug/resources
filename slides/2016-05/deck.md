@@ -19,18 +19,7 @@ master: landing-slide
 
 ---
 <!--
-master: bullet-slide
--->
-
-# Whats New for May 2016?
-
-- news 1
-- news 2
-- news 3
-
----
-<!--
-master: bullet-slide
+master: bullet-caption-slide
 -->
 
 # House Keeping
@@ -44,25 +33,33 @@ master: bullet-slide
 
 ---
 <!--
-master: sponsor-slide
+master: bullet-caption-slide
+-->
+
+# Whats New for May 2016?
+
+* NodeConf London
+  * *[Videos available online](https://www.youtube.com/playlist?list=PL0CdgOSSGlBYnHAl_DZoy9BWvdVQjNKE2#nodeconflondon2016)*
+* NodeSchool
+  * ####### NEED SOME MORE INFORMATION ######
+* NodeConf EU
+  * Call for speakers
+* v0.12 now in *[maintenance](https://github.com/nodejs/LTS)* (not LTS)
+  * Only critical bugs and security fixes
+
+
+---
+<!--
+master: bullet-caption-slide
 -->
 
 # Sponsors
 Interested in sponsoring? get in touch at contact@lnug.org
 
-## Gold
 * Makers Academy
 * Strongloop
-* YLD!
 
-## Silver
-* Artificial Labs
-* JSCrambler
-
-## Bronze
-* Slots Available
-
-## Community
+## Community Sponsorship
 * [Your company here!]
 
 ---
@@ -70,22 +67,70 @@ Interested in sponsoring? get in touch at contact@lnug.org
 master: basic-slide
 -->
 
-# Announcements
+# Speaker #1
+Grab a drink then grab a seat!
 
-## Assets & Slides
-github.com/lnug/resources
-
-## Community Announcements
-Hiring | Available | Cool Projects
-
-Who, what, need, contact..?
+<img src="images/beer.gif" width="55%"/>
 
 ---
 <!--
 master: bullet-caption-slide
 -->
 
-## Pull Requests
+# Community Announcements
+Who, what, need, contact..?
+
+## Hiring
+
+## Available
+
+## Cool Projects
+
+
+---
+<!--
+master: basic-slide
+-->
+
+# Speaker #2
+Grab a drink then grab a seat!
+
+<img src="images/beer.gif" width="55%"/>
+
+---
+<!--
+master: bullet-caption-slide
+-->
+
+# Contribute
+
+## Assets & Slides
+* github.com/lnug/resources
+
+## Website Tips
+* github.com/lnug/lnug.github.io || Ask Simon McManus
+
+---
+<!--
+master: bullet-caption-slide
+-->
+
+# Hot Issues
+github.com/lnug/feedback/issues
+  
+* Provide mechanism for the community to suggest speakers
+  * http://github.com/lnug/lnug.github.io/issues/92
+* Privacy policy
+  * http://github.com/lnug/lnug.github.io/issues/80
+* Newsletter June 2016 - News Gathering
+  * github.com/lnug/feedback/issues/103
+
+---
+<!--
+master: bullet-caption-slide
+-->
+
+# Pull Requests
 A huge thanks to this months contributors, especially
 * Simon McManus
 * Clarkie
@@ -100,33 +145,7 @@ If I missed you I'm sorry!
 master: bullet-caption-slide
 -->
 
-## Hot Issues
-github.com/lnug/feedback/issues
-
-* Provide mechanism for the community to suggest speakers
-    * http://github.com/lnug/lnug.github.io/issues/92
-* Privacy policy
-    * http://github.com/lnug/lnug.github.io/issues/80
-* Newsletter May 2016 - News Gathering
-    * github.com/lnug/feedback/issues/102
-
----
-<!--
-master: basic-caption-slide
--->
-
-# Contribute
-github.com/lnug
-
-## Website Tips
-github.com/lnug/lnug.github.io | Ask Simon McManus
-
----
-<!--
-master: bullet-caption-slide
--->
-
-# Speakers
+# Call for speakers
 github.com/lnug/speakers
 
 We have 2016 speaker slots available.
@@ -135,26 +154,16 @@ We have 2016 speaker slots available.
 * August
 * September
 
+
 ---
 <!--
 master: basic-slide
 -->
 
-# Loading...
-Grab a drink!
+# Speaker #3
+Grab a drink then grab a seat!
 
 <img src="images/beer.gif" width="55%"/>
----
-<!--
-master: basic-slide
--->
-
-# Community Announcements
-Now it's time to hand over to you...
-
-Hiring | Available | Cool Projects
-
-Who, what, need, contact..?
 
 ---
 <!--
