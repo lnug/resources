@@ -6,11 +6,6 @@ The goal of our Gold tier sponsorship is to build long standing partnerships wit
 
 <ul class="gold-sponsor sponsors">
   <li>
-    <a href="https://www.braintreepayments.com/" target="_blank" title="BrainTree Payments homepage, proud sponsor of LNUG">
-      <img src="/images/sponsors/braintree.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="BrainTree Payments Logo">
-    </a>
-  </li>
-  <li>
     <a href="http://makersacademy.com/" target="_blank" title="Makers Academy, venue hosts for LNUG meetups">
       <img src="/images/sponsors/makers.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="Makers Academy Logo">
     </a>
@@ -20,28 +15,12 @@ The goal of our Gold tier sponsorship is to build long standing partnerships wit
       <img src="/images/sponsors/strongloop.png" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="StrongLoop Logo">
     </a>
   </li>
-  <li>
-    <a href="http://yld.io" target="_blank" title="YLD!">
-      <img src="/images/sponsors/yld.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-gold" alt="YLD! Logo">
-    </a>
-  </li>
 </ul>
 
 ## Silver
 The goal of our Silver tier sponsorship is to enable established companies ad-hoc sponsorship at the times when its a best fits their objectives.
 
-<ul class="silver-sponsor sponsors">
-  <li>
-    <a href="https://artificial.io/" target="_blank" title="artificial labs, proud sponsor of LNUG">
-      <img src="/images/sponsors/artificial-labs.jpg" class="lnug-sponsor-logo lnug-sponsor-logo-silver" alt="artificial Logo">
-    </a>
-  </li>
-  <li>
-    <a href="https://jscrambler.com/" target="_blank" title="JScrambler, proud sponsor of LNUG">
-      <img src="/images/sponsors/jscramble.png" class="lnug-sponsor-logo lnug-sponsor-logo-silver" alt="JScramble Logo">
-    </a>
-  </li>
-</ul>
+<ul class="silver-sponsor sponsors"></ul>
 
 ## Bronze
 The goal of our Bronze tier sponsorship is to enable local startups, who do not necessarily have the budgets of the larger enterprises to have the opportunity to build their brand.
