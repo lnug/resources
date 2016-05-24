@@ -107,8 +107,10 @@ github.com/lnug/feedback/issues
   * http://github.com/lnug/lnug.github.io/issues/92
 * Privacy policy
   * http://github.com/lnug/lnug.github.io/issues/80
+* Food
+  * https://github.com/lnug/feedback/issues/103
 * Newsletter June 2016 - News Gathering
-  * github.com/lnug/feedback/issues/103
+  * github.com/lnug/feedback/issues/104
 
 ---
 <!--
