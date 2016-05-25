@@ -8,7 +8,7 @@ master: landing-slide
 <ul class="speakers">
   <li class="speaker-card">Alex J Burke - <em>Declaratively mocking HTTP</em></li>
   <li class="speaker-card">Samuel Rounce - <em>Debugging Node.JS</em></li>
-  <li class="speaker-card">Tanzim - <em>I've got swagger. Have you?</em></li>
+  <li class="speaker-card">~~Tanzim - <em>I've got swagger. Have you?~~</em></li>
 </ul>
 
 <ul class="information">
@@ -27,6 +27,7 @@ master: bullet-caption-slide
 * YouTube: LNUG Team
 * Instagram: #lnug
 * Twitter: #lnug
+* Gitter: lnug/discuss
 * Swag
 * Toilets
 * Fire Escapes!
@@ -43,6 +44,7 @@ master: bullet-caption-slide
 * Node School Day
 * v0.12 now in *[maintenance](https://github.com/nodejs/LTS)* (not LTS)
   * Only critical bugs and security fixes
+* LNUG now on meetup.com
 
 ---
 <!--
@@ -69,18 +71,6 @@ Who, what, need, contact..?
 ## Available
 
 ## Cool Projects
-
----
-<!--
-master: basic-slide
---> 
-# Next Up
-## Samuel Rounce
-## Debugging Node.JS
-
-<p style="margin-top:40px">Grab a drink then grab a seat!</p>
-
-<img src="images/beer.gif" width="40%"/>
 
 ---
 <!--
@@ -129,6 +119,18 @@ If I missed you I'm sorry!
 
 ---
 <!--
+master: basic-slide
+--> 
+# Next Up
+## Samuel Rounce
+## Debugging Node.JS
+
+<p style="margin-top:40px">Grab a drink then grab a seat!</p>
+
+<img src="images/beer.gif" width="40%"/>
+
+---
+<!--
 master: bullet-caption-slide
 -->
 
@@ -140,18 +142,6 @@ We have 2016 speaker slots available.
 * July
 * August
 * September
-
----
-<!--
-master: basic-slide
---> 
-# Next Up
-## Tanzim
-## I've got swagger. Have you?
-
-<p style="margin-top:40px">Grab a drink then grab a seat!</p>
-
-<img src="images/beer.gif" width="40%"/>
 
 ---
 <!--
@@ -176,11 +166,11 @@ master: bullet-caption-slide
 ## 22nd June 2016
 The 4th Wednesday of the month
 
-ti.to/lnug/june-2016
+meetup.com/london-nodejs/
 
 * Rubbish in Bins
 * Stack chairs against walls
-* Visit Sponsors Websites
+* Get involved!
 
 ---
 <!--
