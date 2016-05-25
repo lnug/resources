@@ -6,8 +6,8 @@ master: landing-slide
 # 25th May 2016 (#52)
 
 <ul class="speakers">
-  <li class="speaker-card">Alex J Burke - <em>Declaratively mocking HTTP</em></li>
   <li class="speaker-card">Samuel Rounce - <em>Debugging Node.JS</em></li>
+  <li class="speaker-card">Alex J Burke - <em>Declaratively mocking HTTP</em></li>
   <li class="speaker-card">~~Tanzim - <em>I've got swagger. Have you?~~</em></li>
 </ul>
 
@@ -51,8 +51,8 @@ master: bullet-caption-slide
 master: basic-slide
 --> 
 # Next Up
-## Alex J Burke
-## Declaratively mocking HTTP
+## Samuel Rounce
+## Debugging Node.JS
 
 <p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
@@ -122,8 +122,8 @@ If I missed you I'm sorry!
 master: basic-slide
 --> 
 # Next Up
-## Samuel Rounce
-## Debugging Node.JS
+## Alex J Burke
+## Declaratively mocking HTTP
 
 <p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
