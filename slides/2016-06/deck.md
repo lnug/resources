@@ -3,7 +3,7 @@
 master: landing-slide
 -->
 <object id="logo" type="image/svg+xml" data="images/lnug-logo.svg"></object>
-# 25th May 2016 (#52)
+# 22nd June 2016 (#53)
 
 <ul class="speakers">
   <li class="speaker-card">Keith Woods - <em>Building Complex SPAs with React and ESP</em></li>
@@ -112,9 +112,9 @@ master: basic-slide
 ## Luca Mezzalira
 ## Isomorphic apps with Hapi.js and React
 
-<p style="margin-top:40px">Grab a drink then grab a seat!</p>
+<p style="margin-top:40px">Grab some pizza then grab a seat!</p>
 
-<img src="images/oj.gif" width="40%"/>
+<img src="images/pizza-tree.gif" width="40%"/>
 
 ---
 <!--
@@ -150,7 +150,7 @@ master: bullet-caption-slide
 -->
 
 # Next Time
-## 22nd June 2016
+## 20th July 2016
 The 4th Wednesday of the month
 
 meetup.com/london-nodejs/
