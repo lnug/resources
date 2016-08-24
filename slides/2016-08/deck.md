@@ -7,6 +7,7 @@ master: landing-slide
 
 <ul class="speakers">
   <li class="speaker-card">Daniel Magliola - <em>Harnessing the full power of Redis</em></li>
+  <li class="speaker-card">Evgeniya - <em>Getting my first Javascript job through LNUG</em></li>
   <li class="speaker-card">Bernard Baker - <em>NodeJS a professional case study</em></li>
 </ul>
 
@@ -39,6 +40,19 @@ master: basic-slide
 # Next Up
 ## Daniel Magliola
 ## Harnessing the full power of Redis
+
+<p style="margin-top:40px">Grab a drink then grab a seat!</p>
+
+<img src="images/beer.gif" width="40%"/>
+
+---
+<!--
+master: basic-slide
+-->
+
+# Next Up
+## Evgeniya
+## Getting my first Javascript job through LNUG
 
 <p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
