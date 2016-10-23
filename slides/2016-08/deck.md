@@ -31,6 +31,7 @@ master: bullet-caption-slide
 * Swag
 * Toilets
 * Fire Escapes!
+* Code of Conduct (available on our website)
 
 ---
 <!--
