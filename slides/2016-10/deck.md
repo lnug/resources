@@ -39,6 +39,7 @@ master: bullet-caption-slide
 
 # House Keeping
 
+* Code of Conduct (available on our website)
 * YouTube: LNUG Team
 * Instagram: #lnug (@lnugorg)
 * Twitter: #lnug (@lnugorg)
