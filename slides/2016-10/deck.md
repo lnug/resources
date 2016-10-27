@@ -186,5 +186,3 @@ London,
 E1 6LP
 
 http://theculpeper.com/pub/
-
----
