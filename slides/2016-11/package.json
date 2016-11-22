@@ -1,0 +1,19 @@
+{
+  "name": "february-2016",
+  "version": "0.0.8",
+  "skin": "lnug-deck-skin-alt",
+  "files": [
+    "README.md",
+    "deck.md",
+    "images"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.9",
+    "lnug-deck-skin-alt": "^1.0.3"
+  },
+  "author": {
+    "name": "Eli Schutze"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/lnug/resources/slides/2016-11"
+}

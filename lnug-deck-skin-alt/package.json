@@ -1,0 +1,26 @@
+{
+  "name": "lnug-deck-skin-alt",
+  "version": "1.0.3",
+  "main": "main.styl",
+  "author": "David Mark Clements",
+  "contributors": [
+    {
+      "name": "Ian Crowther",
+      "email": "ian@nexttick.io",
+      "url": "http://nexttick.io"
+    },
+    {
+      "name": "Eli Schutze",
+      "email": "elischutze@gmail.com",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "files": [
+    "images",
+    "main.styl",
+    "master-slides.styl",
+    "universe.styl"
+  ]
+}
