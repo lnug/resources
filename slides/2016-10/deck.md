@@ -2,13 +2,26 @@
 <!--
 master: landing-slide
 -->
+
 <object id="logo" type="image/svg+xml" data="images/lnug-logo.svg"></object>
-# 24th August 2016 (#55)
+
+# 26th October 2016 (#57)
 
 <ul class="speakers">
-  <li class="speaker-card">Daniel Magliola - <em>Harnessing the full power of Redis</em></li>
-  <li class="speaker-card">Evgeniya - <em>Getting my first Javascript job through LNUG</em></li>
-  <li class="speaker-card">Bernard Baker - <em>NodeJS a professional case study</em></li>
+  <li class="speaker-card">
+    How to build a RESTful API
+    <em>Laszlo Gyulai</em>
+  </li>
+
+  <li class="speaker-card">
+    Write More Resilient JavaScript with Flow
+    <em>Alex Booker</em>
+  </li>
+
+  <li class="speaker-card">
+    Quick wins with node and Google AMP
+    <em>Mike MacCana</em>
+  </li>
 </ul>
 
 <ul class="information">
@@ -18,20 +31,34 @@ master: landing-slide
 </ul>
 
 ---
+
+
 <!--
 master: bullet-caption-slide
 -->
 
 # House Keeping
 
+* Code of Conduct (available on our website)
 * YouTube: LNUG Team
 * Instagram: #lnug (@lnugorg)
 * Twitter: #lnug (@lnugorg)
 * Gitter: lnug/discuss
-* Swag
 * Toilets
 * Fire Escapes!
-* Code of Conduct (available on our website)
+
+---
+
+<!--
+master: basic-slide
+-->
+# Venue, drinks and pizza
+<img src="images/makers_logo.png" height="80" alt="makers_logo" />
+
+
+
+# Video
+<img src="images/pusher_logo_white.png" height="80" alt="pusher_logo_p_white" />
 
 ---
 <!--
@@ -39,21 +66,20 @@ master: basic-slide
 -->
 
 # Next Up
-## Daniel Magliola
-## Harnessing the full power of Redis
+## Laszlo Gyulai
+## How to build a RESTful API
 
 <p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
 <img src="images/beer.gif" width="40%"/>
-
 ---
 <!--
 master: basic-slide
 -->
 
 # Next Up
-## Evgeniya
-## Getting my first Javascript job through LNUG
+## Alex Booker
+## Write More Resilient JavaScript with Flow
 
 <p style="margin-top:40px">Grab a drink then grab a seat!</p>
 
@@ -79,8 +105,8 @@ master: basic-slide
 -->
 
 # Next Up
-## Bernard Baker
-## NodeJS a professional case study
+## Mike MacCana
+## Quick wins with node and Google AMP
 
 <p style="margin-top:40px">Grab some pizza then grab a seat!</p>
 
@@ -109,9 +135,12 @@ github.com/lnug/speakers
 
 We have speaker slots available!
 
-* September
-* October
-* November
+* ~~November~~ Full - A functional programming extravaganza!
+* ~~December~~ (having a break)
+* January
+* February
+* March
+...
 
 ---
 <!--
@@ -133,7 +162,8 @@ master: bullet-caption-slide
 -->
 
 # Next Time
-## 28th September 2016
+## 23rd November 2016
+
 The 4th Wednesday of the month
 
 meetup.com/london-nodejs/
