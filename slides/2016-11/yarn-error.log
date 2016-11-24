@@ -1,0 +1,57 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn
+
+PATH: 
+  /Users/elianne/.rbenv/shims:/Library/Frameworks/Python.framework/Versions/3.5/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
+
+Yarn version: 
+  0.16.1
+
+Node version: 
+  6.3.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "february-2016",
+    "version": "0.0.8",
+    "skin": "lnug-deck-skin-alt",
+    "files": [
+      "README.md",
+      "deck.md",
+      "images"
+    ],
+    "dependencies": {
+      "@deck/present": "^1.1.9",
+      "lnug-deck-skin-alt": "^1.0.3"
+    },
+    "author": {
+      "name": "Eli Schutzr",
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/lnug/resources/slides/2016-11"
+  }
+
+yarn manifest: 
+  No manifest
+
+bower manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  SyntaxError: /Users/elianne/lnug/resources/slides/2016-11/package.json: Unexpected token } in JSON at position 280
+      at Object.parse (native)
+      at /usr/local/lib/node_modules/yarn/lib/util/fs.js:271:57
+      at next (native)
+      at step (/usr/local/lib/node_modules/yarn/node_modules/babel-runtime/helpers/asyncToGenerator.js:17:30)
+      at /usr/local/lib/node_modules/yarn/node_modules/babel-runtime/helpers/asyncToGenerator.js:28:13
+      at run (/usr/local/lib/node_modules/yarn/node_modules/core-js/library/modules/es6.promise.js:87:22)
+      at /usr/local/lib/node_modules/yarn/node_modules/core-js/library/modules/es6.promise.js:100:28
+      at flush (/usr/local/lib/node_modules/yarn/node_modules/core-js/library/modules/_microtask.js:18:9)
+      at _combinedTickCallback (internal/process/next_tick.js:67:7)
+      at process._tickCallback (internal/process/next_tick.js:98:9)

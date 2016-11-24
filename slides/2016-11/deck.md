@@ -35,12 +35,14 @@ master: bullet-caption-slide
 
 # Housekeeping
 
-*  Say hello on Twiter **@LNUGOrg #LNUG**
-*  We're on YouTube: LNUG Team
-*  Instagram: #lnug (@lnugorg)
+*  Say hello on Twiter **@LNUGOrg #LNUG** (or say hello to me too **@elibelly**!)
+*  We're on YouTube: LNUG Team🎥
+*  Instagram: #lnug (@lnugorg)📸
 *  Gitter: **lnug/discuss** 📢
 *  Toilets🚻
 *  Fire Escapes!🔥
+*  Code of Conduct 💕
+
 
 ---
 
@@ -48,14 +50,15 @@ master: bullet-caption-slide
 master: basic-slide
 -->
 # Venue, drinks and pizza
-<img src="images/makers_logo.png" height="80" alt="makers_logo" />
+<img src="images/makers_logo.png" height="60" alt="makers_logo" />
 #### Makers Academy
-#### @makersacademy // makersacademy.com
 
-
+@makersacademy // makersacademy.com
 # Video
-<img src="images/pusher_logo_white.png" height="80" alt="pusher_logo_p_white" />
-#### @pusher // pusher.com
+<img src="images/pusher_logo_white.png" height="60" alt="pusher_logo_p_white" />
+
+@pusher // pusher.com
+
 ---
 <!--
 master: basic-slide
@@ -88,26 +91,11 @@ master: bullet-caption-slide
 
 # Community Announcements!
 
-## Hiring?
+## Hiring? Available for Hire? Wanna share?
 <img src="images/mudano.png" width="40%"/>
-## Available for Hire?
-#### Want to share something cool?
+
 ## Come on up!
-
 <img src="images/fifthelement.gif" width="40%"/>
-
----
-<!--
-master: basic-slide
--->
-
-# Next Up
-## James Chow
-## Readable Microservices, with functional programming
-
-<p style="margin-top:40px">Grab some pizza then grab a seat!</p>
-
-<img src="images/puppypizza.gif" width="40%"/>
 
 ---
 <!--
@@ -123,8 +111,16 @@ Visit github.com/lnug/speakers to submit your talk!
 ## Assets & Slides
 * github.com/lnug/resources
 * Gitter channel: lnug/discuss
+---
+<!--
+master: basic-slide
+-->
 
-
+# Next Up
+## James Chow
+## Readable Microservices, with functional programming
+<p style="margin-top:40px">Grab some pizza then grab a seat!</p>
+<img src="images/puppypizza.gif" width="40%"/>
 
 
 ---
@@ -161,13 +157,12 @@ master: bullet-caption-slide
 -->
 
 # After Party
-
 ## The Culpeper
-
 40 Commercial Street,
-London,
-E1 6LP
+London, E1 6LP
 
 http://theculpeper.com/pub/
 
 @LNUGOrg #LNUG
+
+<img src="images/afterparty.gif" width="40%"/>
