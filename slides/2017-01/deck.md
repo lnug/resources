@@ -113,19 +113,6 @@ Who? What? Contact details?
 
 ---
 <!--
-master: basic-slide
--->
-
-# Next Up
-## Cl&eacute;ment Hannicq
-## GraphQL: an API Convention That You Will Actually Follow
-
-<p style="margin-top:40px">Grab some pizza then grab a seat!</p>
-
-<img src="images/cool_pizza.gif" width="40%"/>
-
----
-<!--
 master: bullet-caption-slide
 -->
 
@@ -150,20 +137,6 @@ master: bullet-caption-slide
 ## We have speaker slots available!
 
 ## Visit github.com/lnug/speakers to submit your talk!
-
----
-<!--
-master: bullet-caption-slide
--->
-
-# Thank You
-
-## Had a great time? Let us know!
-github.com/lnug/feedback
-
-## Brought to you by...
-* Makers Academy
-* github.com/orgs/lnug/people
 
 ---
 <!--
@@ -197,3 +170,30 @@ E1 6LP
 http://theculpeper.com/pub/
 
 <img src="images/cheers.gif" width="30%"/>
+
+---
+<!--
+master: basic-slide
+-->
+
+# Next Up
+## Cl&eacute;ment Hannicq
+## GraphQL: an API Convention That You Will Actually Follow
+
+<p style="margin-top:40px">Grab some pizza then grab a seat!</p>
+
+<img src="images/cool_pizza.gif" width="40%"/>
+
+---
+<!--
+master: bullet-caption-slide
+-->
+
+# Thank You
+
+## Had a great time? Let us know!
+github.com/lnug/feedback
+
+## Brought to you by...
+* Makers Academy
+* github.com/orgs/lnug/people
