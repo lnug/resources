@@ -1,0 +1,19 @@
+{
+  "name": "february-2017",
+  "version": "0.0.8",
+  "skin": "lnug-deck-skin",
+  "files": [
+    "README.md",
+    "deck.md",
+    "images"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.9",
+    "lnug-deck-skin": "^1.0.3"
+  },
+  "author": {
+    "name": "Laszlo Gyulai"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/lnug/resources/slides/2017-02"
+}
